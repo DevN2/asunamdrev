@@ -1,0 +1,20 @@
+{
+	"owner": ["6282126688740@s.whatsapp.net"],
+	"thumbvideo": "https://media.giphy.com/media/mTxoQPdo1LWIo/giphy.gif",
+	"thumb": "https://telegra.ph/file/9155797091a425fba2825.jpg",
+	"session": "devn.json",
+	"ownername": "Devn",
+	"self": false,
+	"server": false,
+	"comment_server": "change 'server' with 'true', if you run in replit!",
+	"limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
+	"packInfo": { "packname": "Nomor asuna :", "author": "0895323401464" },
+	"namebot": "Asuna Bot",
+	"timezone": "Asia/Jakarta",
+	"email": "administrator",
+	"instagram": "https://instagram.com/devn.computer",
+	"locale": "id",
+	"ignore": {
+		"directory": ["umum"]
+	}
+}
