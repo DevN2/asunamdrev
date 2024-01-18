@@ -48,9 +48,7 @@
     "qrcode": "^1.5.0",
     "similarity": "^1.2.1",
     "spinnies": "^0.5.1",
-    "string-crypto": "^2.0.2",
-    "uno-engine": "^1.1.0",
-    "wikijs": "^6.3.3"
+    "string-crypto": "^2.0.2"
   },
   "devDependencies": {
     "@hapi/boom": "^9.1.4",
