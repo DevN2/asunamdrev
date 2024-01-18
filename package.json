@@ -1,12 +1,13 @@
 {
-  "name": "AsunaBot-System",
-  "version": "1.1.0",
-  "description": "AsunaBot using Baileys",
+ "name": "Asuna Bot",
+  "version": "4.0.0",
   "main": "index.js",
-  "type": "module",
+  "depecrated": false,
+  "license": "MIT",
+  "author": "Devn",
   "scripts": {
-   "start": "node index.js --max-old-space-size=8192",
-    "dev": "pm2 start index.js --name AsunaBot --max-memory-restart 8G -- --max-old-space-size=8192"
+    "start": "node .",
+    "format": "prettier --write '**/*.{md,js,json}'"
   },
   "repository": {
     "type": "git",
