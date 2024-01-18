@@ -1,7 +1,3 @@
-//Copyright Devn 2023
-//Secret Code
-//Cardinal System Project
-
 console.log("Cardinal System Start!");
 let { spawn } = require("child_process");
 let path = require("path");
