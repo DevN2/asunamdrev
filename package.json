@@ -2,7 +2,7 @@
   "name": "AsunaBot-System",
   "version": "1.1.0",
   "description": "AsunaBot using Baileys",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node index.mjs --max-old-space-size=8192",

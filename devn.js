@@ -1,6 +1,44 @@
-//Copyright Devn 2023
-//Secret Code
-//Cardinal System Project
+// Copyright Devn 2023
+// Secret Code
+// Cardinal System Project
+
+import path from 'path';
+import { spawn } from 'child_process';
+
+const __dirname = path.dirname(new URL(import.meta.url).pathname);
+
+// Ubah file server yang akan dijalankan
+const serverFile = 'server.js';
+
+// Mulai server Node.js sebagai anak proses
+const serverProcess = spawn(process.argv[0], [path.join(__dirname, serverFile)], {
+  stdio: 'inherit',
+});
+
+// Tangani peristiwa keluar
+serverProcess.on('exit', (code) => {
+  console.error(`Server exited with code ${code}`);
+  process.exit(code);
+});
+
+// Tangani peristiwa error
+serverProcess.on('error', (err) => {
+  console.error('Server error:', err);
+  process.exit(1);
+});
+
+// Tangani peristiwa sinyal dan restart server
+process.on('SIGINT', () => {
+  console.log('Received SIGINT signal. Stopping server...');
+  serverProcess.kill();
+  process.exit();
+});
+
+// Tangani peristiwa keluar server dan restart
+process.on('exit', () => {
+  console.log('Exiting main process. Stopping server...');
+  serverProcess.kill();
+});
 
 //Inisialisasi
 import config from "./config.js"
