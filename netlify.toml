@@ -1,6 +1,6 @@
 [build]
   command = "npm install && npm start"
-  publish = "dist"  # Ganti dengan direktori hasil build Anda
+  publish = "public"  # Ganti dengan direktori hasil build Anda
 
 [[redirects]]
   from = "/*"
