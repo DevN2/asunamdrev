@@ -1,329 +1,78 @@
 [
   {
-    "id": "6BEB7449267018C3D4",
+    "id": "286404149A95430E5AD12DAE8F402D6D",
     "msg": {
       "key": {
         "remoteJid": "6288801560462-1617834009@g.us",
         "fromMe": false,
-        "id": "6BEB7449267018C3D4",
-        "participant": "6282126688740@s.whatsapp.net"
+        "id": "286404149A95430E5AD12DAE8F402D6D",
+        "participant": "62882009996111@s.whatsapp.net"
       },
-      "messageTimestamp": 1704955808,
-      "pushName": "Deva",
+      "messageTimestamp": 1705593020,
+      "pushName": "Nadx~",
       "broadcast": false,
       "message": {
         "extendedTextMessage": {
-          "text": ".menu",
+          "text": "Main js kalo gitu",
+          "previewType": "NONE",
           "contextInfo": {
-            "expiration": 0
-          }
-        }
-      }
-    }
-  },
-  {
-    "id": "ED94354CD1C11DE8EA",
-    "msg": {
-      "key": {
-        "remoteJid": "6288801560462-1617834009@g.us",
-        "fromMe": false,
-        "id": "ED94354CD1C11DE8EA",
-        "participant": "6282126688740@s.whatsapp.net"
-      },
-      "messageTimestamp": 1704955813,
-      "pushName": "Deva",
-      "broadcast": false,
-      "message": {
-        "extendedTextMessage": {
-          "text": ".p",
-          "contextInfo": {
-            "expiration": 0
-          }
-        }
-      }
-    }
-  },
-  {
-    "id": "RZKY79B8FE1A3A1909E38C77D74E49",
-    "msg": {
-      "key": {
-        "remoteJid": "6288801560462-1617834009@g.us",
-        "fromMe": true,
-        "id": "RZKY79B8FE1A3A1909E38C77D74E49"
-      },
-      "message": {
-        "extendedTextMessage": {
-          "text": "\t\t\t\t\t「 Asuna Bot 」\n\t\t\tSelamat *Siang* Kak Deva !\n\t\t\t\t\t「 INFO USER 」\n- Nomer: 「  6282126688740 」\n- Status: 「 Owner 」\n- Waktu: 「 13:50:11 」\t\n- Tanggal: 「 Kamis, 11/01/2024 」\n\n\n「 Fitur terpopuler saat ini 」\n1. #help dipakai sebanyak 31 kali\n2. #ping dipakai sebanyak 8 kali\n3. #sticker dipakai sebanyak 4 kali\n\n❏ CONVERTER\n1. #kalkulator \n2. #sticker \n3. #toimg \n4. #togif \n\n❏ DOWNLOADER\n1. #downloaderall 「 url 」\n2. #instagram 「 url 」\n3. #youtube 「 url 」\n\n❏ OTHER\n1. #confess nama|nomer|pesan\n2. #buyglimit 「 angka 」\n3. #buylimit 「 angka 」\n4. #inspect 「 link 」\n5. #join \n\n❏ FUN\n1. #emojimix 「 emoji || emoji+emoji 」\n2. #halah !halah [teks]\n\n❏ GAME\n1. #tebakbendera \n\n❏ GROUP\n1. #add 「 number 」\n2. #antidelete 「 1 / 0 」\n3. #antilink 「 1 / 0 」\n4. #demote 「 tagMem 」\n5. #hidetag 「 text 」\n6. #kick 「 tag 」\n7. #left 「 1 / 0 」\n8. #promote 「 tagMem 」\n9. #setleft 「 text 」\n10. #setnamegc setname + query\n11. #setwelcome 「 text 」\n12. #welcome 「 1 / 0 」\n\n❏ INFO\n1. #stats \n2. #dashboard \n3. #infochat \n4. #limit \n5. #listpremium \n6. #me \n7. #owner \n8. #ping \n\n❏ PREMIUM\n1. #cekpremium \n\n❏ OWNER COMMAND\n1. #addpremium \n2. #adminmode \n3. #broadcastgroup \n4. #delpremium \n5. eval \n6. $ \n7. #lockcmd \n8. #react \n9. #resetlimit \n10. #save \n11. #self \n12. #unlockcmd \n13. #sendsesi \n\n❏ RANDOM\n1. #loli \n2. #meme \n3. #quotesanime \n\n❏ SEARCH\n1. #chord 「 q 」\n2. #getchord 「 number 」\n3. #pinterest 「 teks 」\n4. #whatmusic 「 reply audio 」\n5. #wikipedia 「 topik 」\n\n❏ TOOLS\n1. #getquoted \n2. #imgtopdf \n3. #setlanguage 「 language 」\n4. #upload reply media message\n\n"
-        }
-      },
-      "messageTimestamp": "1704955811",
-      "status": "PENDING",
-      "participant": "62895323401464:12@s.whatsapp.net"
-    }
-  },
-  {
-    "id": "RZKYAB127FCC33BDB60CD7505E1031",
-    "msg": {
-      "key": {
-        "remoteJid": "6288801560462-1617834009@g.us",
-        "fromMe": true,
-        "id": "RZKYAB127FCC33BDB60CD7505E1031"
-      },
-      "message": {
-        "extendedTextMessage": {
-          "text": "*_-0.726 second(s)_*",
-          "contextInfo": {
-            "stanzaId": "ED94354CD1C11DE8EA",
+            "stanzaId": "4D213BFC3C2B69AA72",
             "participant": "6282126688740@s.whatsapp.net",
             "quotedMessage": {
-              "extendedTextMessage": {
-                "text": ".p"
-              }
+              "conversation": "ini isinya"
             }
-          }
-        }
-      },
-      "messageTimestamp": "1704955812",
-      "status": "PENDING",
-      "participant": "62895323401464:12@s.whatsapp.net"
-    }
-  },
-  {
-    "id": "613CC84C69C51033C9",
-    "msg": {
-      "key": {
-        "remoteJid": "6288801560462-1617834009@g.us",
-        "fromMe": false,
-        "id": "613CC84C69C51033C9",
-        "participant": "6282126688740@s.whatsapp.net"
-      },
-      "messageTimestamp": 1704955820,
-      "pushName": "Deva",
-      "broadcast": false,
-      "message": {
-        "extendedTextMessage": {
-          "text": ".p",
-          "contextInfo": {
-            "expiration": 0
-          }
-        }
-      }
-    }
-  },
-  {
-    "id": "RZKY4176C822C297F45C7D26ECCAEF",
-    "msg": {
-      "key": {
-        "remoteJid": "6288801560462-1617834009@g.us",
-        "fromMe": true,
-        "id": "RZKY4176C822C297F45C7D26ECCAEF"
-      },
-      "message": {
-        "extendedTextMessage": {
-          "text": "*_-0.467 second(s)_*",
-          "contextInfo": {
-            "stanzaId": "613CC84C69C51033C9",
-            "participant": "6282126688740@s.whatsapp.net",
-            "quotedMessage": {
-              "extendedTextMessage": {
-                "text": ".p"
-              }
-            }
-          }
-        }
-      },
-      "messageTimestamp": "1704955819",
-      "status": "PENDING",
-      "participant": "62895323401464:12@s.whatsapp.net"
-    }
-  },
-  {
-    "id": "D7DFBD3D5A0B2B5B10",
-    "msg": {
-      "key": {
-        "remoteJid": "6288801560462-1617834009@g.us",
-        "fromMe": false,
-        "id": "D7DFBD3D5A0B2B5B10",
-        "participant": "6282126688740@s.whatsapp.net"
-      },
-      "messageTimestamp": 1704955832,
-      "pushName": "Deva",
-      "broadcast": false,
-      "message": {
-        "extendedTextMessage": {
-          "text": ".p",
-          "contextInfo": {
-            "expiration": 0
-          }
-        }
-      }
-    }
-  },
-  {
-    "id": "RZKYB84F6B7DFCED109BC16B974F26",
-    "msg": {
-      "key": {
-        "remoteJid": "6288801560462-1617834009@g.us",
-        "fromMe": true,
-        "id": "RZKYB84F6B7DFCED109BC16B974F26"
-      },
-      "message": {
-        "extendedTextMessage": {
-          "text": "*_-0.312 second(s)_*",
-          "contextInfo": {
-            "stanzaId": "D7DFBD3D5A0B2B5B10",
-            "participant": "6282126688740@s.whatsapp.net",
-            "quotedMessage": {
-              "extendedTextMessage": {
-                "text": ".p"
-              }
-            }
-          }
-        }
-      },
-      "messageTimestamp": "1704955831",
-      "status": "PENDING",
-      "participant": "62895323401464:12@s.whatsapp.net"
-    }
-  },
-  {
-    "id": "CF7A93611BE8D92C84",
-    "msg": {
-      "key": {
-        "remoteJid": "6288801560462-1617834009@g.us",
-        "fromMe": false,
-        "id": "CF7A93611BE8D92C84",
-        "participant": "6282126688740@s.whatsapp.net"
-      },
-      "messageTimestamp": 1704955846,
-      "pushName": "Deva",
-      "broadcast": false,
-      "message": {
-        "extendedTextMessage": {
-          "text": ".kalkulator",
-          "contextInfo": {
-            "expiration": 0
-          }
-        }
-      }
-    }
-  },
-  {
-    "id": "RZKY9B7C6F84B6250FE3819A2EBBF6",
-    "msg": {
-      "key": {
-        "remoteJid": "6288801560462-1617834009@g.us",
-        "fromMe": true,
-        "id": "RZKY9B7C6F84B6250FE3819A2EBBF6"
-      },
-      "message": {
-        "extendedTextMessage": {
-          "text": "TypeError: Cannot read properties of undefined (reading '1')\n    at Object.run (D:\\Dokumen\\Programming\\AsunaMDRev\\command\\converter\\kalkulator.js:9:33)\n    at handler (D:\\Dokumen\\Programming\\AsunaMDRev\\handler.js:465:14)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
-          "contextInfo": {
-            "stanzaId": "CF7A93611BE8D92C84",
-            "participant": "6282126688740@s.whatsapp.net",
-            "quotedMessage": {
-              "extendedTextMessage": {
-                "text": ".kalkulator"
-              }
-            }
-          }
-        }
-      },
-      "messageTimestamp": "1704955857",
-      "status": "PENDING",
-      "participant": "62895323401464:12@s.whatsapp.net"
-    }
-  },
-  {
-    "id": "8C2141F779B3B91A2C",
-    "msg": {
-      "key": {
-        "remoteJid": "6288801560462-1617834009@g.us",
-        "fromMe": false,
-        "id": "8C2141F779B3B91A2C",
-        "participant": "6282126688740@s.whatsapp.net"
-      },
-      "messageTimestamp": 1704955893,
-      "pushName": "Deva",
-      "broadcast": false,
-      "message": {
-        "extendedTextMessage": {
-          "text": ".loli",
-          "contextInfo": {
-            "expiration": 0
-          }
-        }
-      }
-    }
-  },
-  {
-    "id": "RZKY79B00B426BB133AC4FB2AAED89",
-    "msg": {
-      "key": {
-        "remoteJid": "6288801560462-1617834009@g.us",
-        "fromMe": true,
-        "id": "RZKY79B00B426BB133AC4FB2AAED89"
-      },
-      "message": {
-        "extendedTextMessage": {
-          "text": "_Wait a minute, data is being processed!_",
-          "contextInfo": {
-            "stanzaId": "8C2141F779B3B91A2C",
-            "participant": "6282126688740@s.whatsapp.net",
-            "quotedMessage": {
-              "extendedTextMessage": {
-                "text": ".loli"
-              }
-            }
-          }
-        }
-      },
-      "messageTimestamp": "1704955892",
-      "status": "PENDING",
-      "participant": "62895323401464:12@s.whatsapp.net"
-    }
-  },
-  {
-    "id": "RZKY865C0110B43EE891639A329CEB",
-    "msg": {
-      "key": {
-        "remoteJid": "6288801560462-1617834009@g.us",
-        "fromMe": true,
-        "id": "RZKY865C0110B43EE891639A329CEB"
-      },
-      "message": {
-        "buttonsMessage": {
-          "imageMessage": {
-            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m236/up-oil-image-3b7edfe1-13a0-4ec7-935b-0794754ea892?ccb=9-4&oh=01_AdTXhV5GBUdvEi7xoOdaatqdeCTwsc5dU1pvnqOG8ZRzCw&oe=65C6E634&_nc_sid=000000&mms3=true",
-            "mimetype": "image/jpeg",
-            "caption": "Pedo🫵",
-            "fileSha256": "WJdJf8KAjY+CCgz7TwmjGH2UuCLfEIIcZnIffdxrlXQ=",
-            "fileLength": "86318",
-            "height": 302,
-            "width": 600,
-            "mediaKey": "92WnhFT+F3dD9BaNFwjKsvgAxdB+eP6ZO1XYm5A75hI=",
-            "fileEncSha256": "bRzLpgmBC2hzmb3Sd6LQY/UX8/giDNvkexVwAokSRr8=",
-            "directPath": "/o1/v/t62.7118-24/f1/m236/up-oil-image-3b7edfe1-13a0-4ec7-935b-0794754ea892?ccb=9-4&oh=01_AdTXhV5GBUdvEi7xoOdaatqdeCTwsc5dU1pvnqOG8ZRzCw&oe=65C6E634&_nc_sid=000000",
-            "mediaKeyTimestamp": "1704955909",
-            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIABAAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AObQRSWyqIQsig5fefnJPUjpgDIwMevtWU5pOx3YfDSnHmSXz/r+tBJRbmPMUYVgoGPMLbm7npwOOmc89+zjIzq0rOytfyf53/r9Hu1mSypEgGw4PmOTnkj+Hryo6Y+U9M5rQ5St5a4J85OCeMHn9O9ADoH28FlA/wBpqyqQud+Eruno1p6/5j53MbFY5w65PCngHjJ/Hp74ojHZPoTWq3cpU9FLfb/P+tSIXEwkaQSyCRjlm3HJOc8n681qcQ0u7DBdiDjgn0GB+QoA/wD/2Q=="
           },
-          "contentText": "Pedo🫵",
-          "buttons": [
-            {
-              "buttonId": "#loli",
-              "buttonText": {
-                "displayText": "Get Again"
-              },
-              "type": "RESPONSE"
-            }
-          ],
-          "headerType": "IMAGE"
+          "inviteLinkGroupTypeV2": "DEFAULT"
         }
+      }
+    }
+  },
+  {
+    "id": "96CEC862F225B6C7471829CDDD1A1520",
+    "msg": {
+      "key": {
+        "remoteJid": "6288801560462-1617834009@g.us",
+        "fromMe": false,
+        "id": "96CEC862F225B6C7471829CDDD1A1520",
+        "participant": "62882009996111@s.whatsapp.net"
       },
-      "messageTimestamp": "1704955909",
-      "status": "PENDING",
-      "participant": "62895323401464:12@s.whatsapp.net"
+      "messageTimestamp": 1705593025,
+      "pushName": "Nadx~",
+      "broadcast": false,
+      "message": {
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/33354924_1969874706719442_5610912319752605688_n.enc?ccb=11-4&oh=01_AdTEy9jlOJfonwVbPhuHQImc0g7l892xiFU7BzEKIh4l3Q&oe=65D0C8EE&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "Rg6lIBxwBrFGsJTqdMa9IrG9hsDeWgfwWy5CioF/dEU=",
+          "fileEncSha256": "P3IptiQbsZ06fyLSA7qyZIsQS+nhx+3Ot3qse5uEm9g=",
+          "mediaKey": "w4Feb8pSK/+hVTYDTJg4weR8m8rFsJaE4i2H7kfAHgA=",
+          "mimetype": "image/webp",
+          "height": 64,
+          "width": 64,
+          "directPath": "/v/t62.15575-24/33354924_1969874706719442_5610912319752605688_n.enc?ccb=11-4&oh=01_AdTEy9jlOJfonwVbPhuHQImc0g7l892xiFU7BzEKIh4l3Q&oe=65D0C8EE&_nc_sid=5e03e0",
+          "fileLength": "17412",
+          "mediaKeyTimestamp": "1705405032",
+          "isAnimated": false,
+          "stickerSentTs": "1705593024512",
+          "isAvatar": false
+        }
+      }
+    }
+  },
+  {
+    "id": "C2BD2BD671B844D31A32EBD7AE8FB6C5",
+    "msg": {
+      "key": {
+        "remoteJid": "6288801560462-1617834009@g.us",
+        "fromMe": false,
+        "id": "C2BD2BD671B844D31A32EBD7AE8FB6C5",
+        "participant": "6282126688740@s.whatsapp.net"
+      },
+      "messageTimestamp": 1705593029,
+      "pushName": "Deva",
+      "broadcast": false,
+      "message": {
+        "conversation": "bruh"
+      }
     }
   }
 ]
